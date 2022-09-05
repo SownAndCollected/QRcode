@@ -1,0 +1,37 @@
+body {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    border-radius: 40px;
+    width: 625px;
+    height: 925px;
+}
+
+img {
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.explanation {
+    padding: 20px 60px 0 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding: 0 30px;
+    font-size: 35px;
+}
+
+p {
+    color: grey;
+    font-size: 25px;
+    padding: 5px 28px;
+}
+
+
